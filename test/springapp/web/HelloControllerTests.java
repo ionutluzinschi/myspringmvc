@@ -1,4 +1,4 @@
-package springapp.test.springapp.web;
+package web;
 
 import junit.framework.TestCase;
 import org.springframework.web.servlet.ModelAndView;
